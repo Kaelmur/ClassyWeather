@@ -5,6 +5,11 @@
 /.pnp
 .pnp.js
 
+/src/App-v1.js
+/src/Counter.js
+/src/starter.js
+
+
 # testing
 /coverage
 
